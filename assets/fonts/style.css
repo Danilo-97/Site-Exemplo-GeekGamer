@@ -1,0 +1,169 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?l1pcye');
+  src:  url('fonts/icomoon.eot?l1pcye#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?l1pcye') format('truetype'),
+    url('fonts/icomoon.woff?l1pcye') format('woff'),
+    url('fonts/icomoon.svg?l1pcye#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-discord1:before {
+  content: "\e912";
+  color: #7289da;
+}
+.icon-discord:before {
+  content: "\e905";
+}
+.icon-arrow-up:before {
+  content: "\e90c";
+}
+.icon-mic_microphone_recorder_speak_voice_icon:before {
+  content: "\e900";
+}
+.icon-gamepad_gamer_gaming_joystick_icon:before {
+  content: "\e901";
+}
+.icon-logo_youtube_icon .path1:before {
+  content: "\e902";
+  color: rgb(255, 0, 0);
+}
+.icon-logo_youtube_icon .path2:before {
+  content: "\e903";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-about_chat_i_info_message_icon:before {
+  content: "\e904";
+}
+.icon-close:before {
+  content: "\e906";
+}
+.icon-cosmetic:before {
+  content: "\e907";
+}
+.icon-facebook:before {
+  content: "\e908";
+}
+.icon-instagram1:before {
+  content: "\e909";
+}
+.icon-mail:before {
+  content: "\e90a";
+}
+.icon-menu:before {
+  content: "\e90b";
+}
+.icon-trim:before {
+  content: "\e90d";
+}
+.icon-whatsapp1:before {
+  content: "\e90e";
+}
+.icon-woman-hair:before {
+  content: "\e90f";
+}
+.icon-youtube:before {
+  content: "\e910";
+}
+.icon-home:before {
+  content: "\e911";
+}
+.icon-mic:before {
+  content: "\e91e";
+}
+.icon-qrcode:before {
+  content: "\e938";
+}
+.icon-cart:before {
+  content: "\e93a";
+}
+.icon-phone:before {
+  content: "\e942";
+}
+.icon-printer:before {
+  content: "\e954";
+}
+.icon-rocket:before {
+  content: "\e9a5";
+}
+.icon-play3:before {
+  content: "\ea1c";
+}
+.icon-pause2:before {
+  content: "\ea1d";
+}
+.icon-stop2:before {
+  content: "\ea1e";
+}
+.icon-backward2:before {
+  content: "\ea1f";
+}
+.icon-forward3:before {
+  content: "\ea20";
+}
+.icon-volume-high:before {
+  content: "\ea26";
+}
+.icon-volume-medium:before {
+  content: "\ea27";
+}
+.icon-volume-low:before {
+  content: "\ea28";
+}
+.icon-volume-mute:before {
+  content: "\ea29";
+}
+.icon-volume-mute2:before {
+  content: "\ea2a";
+}
+.icon-volume-increase:before {
+  content: "\ea2b";
+}
+.icon-volume-decrease:before {
+  content: "\ea2c";
+}
+.icon-loop:before {
+  content: "\ea2d";
+}
+.icon-loop2:before {
+  content: "\ea2e";
+}
+.icon-terminal:before {
+  content: "\ea81";
+}
+.icon-google:before {
+  content: "\ea88";
+}
+.icon-facebook2:before {
+  content: "\ea91";
+}
+.icon-instagram:before {
+  content: "\ea92";
+}
+.icon-whatsapp:before {
+  content: "\ea93";
+}
+.icon-spotify:before {
+  content: "\ea94";
+}
+.icon-linkedin:before {
+  content: "\eac9";
+}
